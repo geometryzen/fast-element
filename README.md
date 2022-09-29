@@ -1,16 +1,11 @@
-# my-lib
+# @geometryzen/fast-element
 
-[![version](https://img.shields.io/npm/v/@geometryzen/my-lib.svg)](https://www.npmjs.com/package/@geometryzen/my-lib) 
+[![version](https://img.shields.io/npm/v/@geometryzen/fast-element.svg)](https://www.npmjs.com/package/@geometryzen/fast-element) 
 
-[![npm downloads](https://img.shields.io/npm/dm/@geometryzen/my-lib.svg)](https://npm-stat.com/charts.html?package=@geometryzen/my-lib&from=2022-09-01)
-
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](./CODE_OF_CONDUCT.md)
+[![npm downloads](https://img.shields.io/npm/dm/@geometryzen/fast-element.svg)](https://npm-stat.com/charts.html?package=@geometryzen/fast-element&from=2022-09-01)
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
-[![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
-[![jest](https://jestjs.io/img/jest-badge.svg)](https://github.com/facebook/jest)
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
-My Library
+@microsoft/fast-element as a system module
