@@ -1,6 +1,6 @@
 {
     "name": "@geometryzen/fast-element",
-    "version": "0.9.2",
+    "version": "0.9.5",
     "description": "@microsoft/fast-element as a System module",
     "main": "dist/cjs/index.js",
     "types": "dist/index.d.ts",
